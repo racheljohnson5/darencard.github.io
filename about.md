@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+My name is Daren!
+
 Some information about you!
 
 ### More Information
